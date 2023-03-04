@@ -1,4 +1,4 @@
-<h1 alight="center">Hello, I'm Joshua Abinal 👋 </h1>
+<h1 align="center">Hello, I'm Joshua Abinal 👋 </h1>
 
 - 🔭 I’m currently studying Information Technology🌐
 - 🌱 I’m currently learning Web Development💻 & Pixel Art👾
