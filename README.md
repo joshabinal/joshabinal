@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning **Web Development💻 & Pixel Art👾**
 - ⚡ I'm interested in **Game Development🎮**
 - 📧 Contact me at **juswaabinal@gmail.com**
-
-
   
+  <br>
 
 <img src="https://raw.githubusercontent.com/joshabinal/joshua-gif/main/JOSHUA.gif">
